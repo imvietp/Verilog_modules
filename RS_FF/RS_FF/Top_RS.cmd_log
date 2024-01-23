@@ -1,0 +1,14 @@
+xst -intstyle ise -ifn "E:/Tai lieu dai hoc/HK2 23 - 24/Vi_mach/verilog/RS_FF/Top_RS.xst" -ofn "E:/Tai lieu dai hoc/HK2 23 - 24/Vi_mach/verilog/RS_FF/Top_RS.syr" 
+xst -intstyle ise -ifn "E:/Tai lieu dai hoc/HK2 23 - 24/Vi_mach/verilog/RS_FF/Top_RS.xst" -ofn "E:/Tai lieu dai hoc/HK2 23 - 24/Vi_mach/verilog/RS_FF/Top_RS.syr" 
+xst -intstyle ise -ifn "E:/Tai lieu dai hoc/HK2 23 - 24/Vi_mach/verilog/RS_FF/Top_RS.xst" -ofn "E:/Tai lieu dai hoc/HK2 23 - 24/Vi_mach/verilog/RS_FF/Top_RS.syr" 
+xst -intstyle ise -ifn "E:/Tai lieu dai hoc/HK2 23 - 24/Vi_mach/verilog/RS_FF/Top_RS.xst" -ofn "E:/Tai lieu dai hoc/HK2 23 - 24/Vi_mach/verilog/RS_FF/Top_RS.syr" 
+xst -intstyle ise -ifn "E:/Tai lieu dai hoc/HK2 23 - 24/Vi_mach/verilog/RS_FF/Top_RS.xst" -ofn "E:/Tai lieu dai hoc/HK2 23 - 24/Vi_mach/verilog/RS_FF/Top_RS.syr" 
+xst -intstyle ise -ifn "E:/Tai lieu dai hoc/HK2 23 - 24/Vi_mach/verilog/RS_FF/Top_RS.xst" -ofn "E:/Tai lieu dai hoc/HK2 23 - 24/Vi_mach/verilog/RS_FF/Top_RS.syr" 
+xst -intstyle ise -ifn "E:/Tai lieu dai hoc/HK2 23 - 24/Vi_mach/verilog/RS_FF/Top_RS.xst" -ofn "E:/Tai lieu dai hoc/HK2 23 - 24/Vi_mach/verilog/RS_FF/Top_RS.syr" 
+xst -intstyle ise -ifn "E:/Tai lieu dai hoc/HK2 23 - 24/Vi_mach/verilog/RS_FF/Top_RS.xst" -ofn "E:/Tai lieu dai hoc/HK2 23 - 24/Vi_mach/verilog/RS_FF/Top_RS.syr" 
+xst -intstyle ise -ifn "E:/Tai lieu dai hoc/HK2 23 - 24/Vi_mach/verilog/RS_FF/Top_RS.xst" -ofn "E:/Tai lieu dai hoc/HK2 23 - 24/Vi_mach/verilog/RS_FF/Top_RS.syr" 
+xst -intstyle ise -ifn "E:/Tai lieu dai hoc/HK2 23 - 24/Vi_mach/verilog/RS_FF/Top_RS.xst" -ofn "E:/Tai lieu dai hoc/HK2 23 - 24/Vi_mach/verilog/RS_FF/Top_RS.syr" 
+xst -intstyle ise -ifn "E:/Tai lieu dai hoc/HK2 23 - 24/Vi_mach/verilog/RS_FF/Top_RS.xst" -ofn "E:/Tai lieu dai hoc/HK2 23 - 24/Vi_mach/verilog/RS_FF/Top_RS.syr" 
+vhdtdtfi -lib work {E:/Tai lieu dai hoc/HK2 23 - 24/Vi_mach/verilog/RS_FF/Top_RS.v} -lang verilog -prj RS_FF -o Top_RS.spl -module Top_RS -template D:/Xilinxxx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Top_RS.spl {E:/Tai lieu dai hoc/HK2 23 - 24/Vi_mach/verilog/RS_FF/Top_RS.sym} 
+vhdtdtfi -lang verilog -prj RS_FF -o "E:/Tai lieu dai hoc/HK2 23 - 24/Vi_mach/verilog/RS_FF/Top_RS.tfi" -lib work "E:/Tai lieu dai hoc/HK2 23 - 24/Vi_mach/verilog/RS_FF//Top_RS.v" -module Top_RS -template D:/Xilinxxx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

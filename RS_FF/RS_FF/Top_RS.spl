@@ -1,0 +1,10 @@
+[Inputs]
+clk
+=SR[1:0]=
+[Outputs]
+Q
+Qb
+[BiDir]
+[ATTRIBUTES]
+VeriModel Top_RS
+

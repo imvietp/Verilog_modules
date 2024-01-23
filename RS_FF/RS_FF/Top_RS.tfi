@@ -1,0 +1,12 @@
+
+
+
+// Instantiate the module
+Top_RS instance_name (
+    .SR(SR), 
+    .clk(clk), 
+    .Q(Q), 
+    .Qb(Qb)
+    );
+
+
