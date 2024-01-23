@@ -1,0 +1,6 @@
+verilog work "Mux4_1.v"
+verilog work "Chiatanso2hz.v"
+verilog work "Chiatanso1hz.v"
+verilog work "machdich.v"
+verilog work "CK4mode.v"
+verilog work "Top.v"
