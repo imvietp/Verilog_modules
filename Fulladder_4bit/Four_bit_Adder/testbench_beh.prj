@@ -1,0 +1,7 @@
+verilog work "Fulladder4.v"
+verilog work "Fulladder3.v"
+verilog work "Fulladder2.v"
+verilog work "Fulladder1.v"
+verilog work "Top.v"
+verilog work "testbench.v"
+verilog work "D:/Xilinxxx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "E:/Tai lieu dai hoc/HK2 23 - 24/Vi_mach/verilog/Four_bit_Adder/Top.xst" -ofn "E:/Tai lieu dai hoc/HK2 23 - 24/Vi_mach/verilog/Four_bit_Adder/Top.syr" 
+xst -intstyle ise -ifn "E:/Tai lieu dai hoc/HK2 23 - 24/Vi_mach/verilog/Four_bit_Adder/Top.xst" -ofn "E:/Tai lieu dai hoc/HK2 23 - 24/Vi_mach/verilog/Four_bit_Adder/Top.syr" 
+xst -intstyle ise -ifn "E:/Tai lieu dai hoc/HK2 23 - 24/Vi_mach/verilog/Four_bit_Adder/Top.xst" -ofn "E:/Tai lieu dai hoc/HK2 23 - 24/Vi_mach/verilog/Four_bit_Adder/Top.syr" 
