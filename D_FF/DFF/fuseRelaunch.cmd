@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "E:/Tai lieu dai hoc/HK2 23 - 24/Vi_mach/verilog/DFF/testbech_isim_beh.exe" -prj "E:/Tai lieu dai hoc/HK2 23 - 24/Vi_mach/verilog/DFF/testbech_beh.prj" "work.testbech" "work.glbl" 
